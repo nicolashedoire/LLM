@@ -1,0 +1,7 @@
+torch
+fastapi
+uvicorn
+python-multipart
+numpy
+spacy
+transformers
